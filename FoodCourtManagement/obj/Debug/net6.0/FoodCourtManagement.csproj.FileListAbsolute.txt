@@ -1,0 +1,15 @@
+D:\C# Programs\FoodCourtManagement\bin\Debug\net6.0\FoodCourtManagement.exe
+D:\C# Programs\FoodCourtManagement\bin\Debug\net6.0\FoodCourtManagement.deps.json
+D:\C# Programs\FoodCourtManagement\bin\Debug\net6.0\FoodCourtManagement.runtimeconfig.json
+D:\C# Programs\FoodCourtManagement\bin\Debug\net6.0\FoodCourtManagement.dll
+D:\C# Programs\FoodCourtManagement\bin\Debug\net6.0\FoodCourtManagement.pdb
+D:\C# Programs\FoodCourtManagement\obj\Debug\net6.0\FoodCourtManagement.csproj.AssemblyReference.cache
+D:\C# Programs\FoodCourtManagement\obj\Debug\net6.0\FoodCourtManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\FoodCourtManagement\obj\Debug\net6.0\FoodCourtManagement.AssemblyInfoInputs.cache
+D:\C# Programs\FoodCourtManagement\obj\Debug\net6.0\FoodCourtManagement.AssemblyInfo.cs
+D:\C# Programs\FoodCourtManagement\obj\Debug\net6.0\FoodCourtManagement.csproj.CoreCompileInputs.cache
+D:\C# Programs\FoodCourtManagement\obj\Debug\net6.0\FoodCourtManagement.dll
+D:\C# Programs\FoodCourtManagement\obj\Debug\net6.0\refint\FoodCourtManagement.dll
+D:\C# Programs\FoodCourtManagement\obj\Debug\net6.0\FoodCourtManagement.pdb
+D:\C# Programs\FoodCourtManagement\obj\Debug\net6.0\FoodCourtManagement.genruntimeconfig.cache
+D:\C# Programs\FoodCourtManagement\obj\Debug\net6.0\ref\FoodCourtManagement.dll
